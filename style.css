@@ -1,0 +1,43 @@
+/* body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+} */
+
+
+.container{
+    width: 500px;
+    text-align: center;
+    margin-left: 650px;
+    margin-top: 100px;
+}
+
+
+
+.container .imm{
+    width: 500px;
+}
+
+.container h1{
+    color: hsl(0, 0%, 59%);
+}
+.container p{
+    color: hsl(0, 0%, 59%);
+}
+
+.container form .a{
+    border-radius: 20px;
+    width:250px;
+    height: 30px;
+    border: none;
+}
+
+.container form button{
+    width: 100px;
+    border-radius: 20px;
+    border: none;
+    background-color: hsl(223, 87%, 63%);
+    height: 30px;
+    color: white;
+}
